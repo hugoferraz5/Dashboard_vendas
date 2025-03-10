@@ -25,7 +25,8 @@ Dashboard do Power BI: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmY0Yj
 
 # Insights
 Alguns insights importantes foram encontrados
-* O vendedor João Oliveira se destaca como um dos melhores da equipe, apresentando um alto lucro e uma média de vendas significativamente superior à de Isabela Rodrigues, que, apesar de ter o maior faturamento, realizou vendas para apenas um cliente. Além disso, João mantém um desempenho consistente ao longo de todo o ano, com forte presença no atacado e atuação em diversas regiões do Brasil.
-* No mês de março, nos anos de 2022 e 2023, o cliente EMPRESA|19046 apresenta um alto lucro, mas com uma média de vendas baixa. Isso sugere que pode se tratar de uma empresa de revenda que compra bastante e aproveita esse período para renovar seu estoque em Duque de Caxias.
-* Fortaleza é a terceira cidade com mais lucros, mas só tem vendas no atacado.
+* O vendedor João Oliveira se destaca como um dos melhores da equipe, apresentando um alto lucro(R4 2.031.362,02) e com vendas para vários clientes no Brasil no atacado. Além disso, João mantém um desempenho consistente ao longo de todo o ano.
+* A vendedora Isabela Rodrigues se destaca como a melhor vendedora da equipe, apresentando um alto lucro de R4 8.904.965,78 (maior parte desse lucro com o cliente EMPRESA|19046), mesmo que tenha menos clientes que João Oliveira e atue apenas no Sudeste (maioria no estado do RJ).
+* No mês de março, nos anos de 2022 e 2023, o cliente EMPRESA|19046 apresenta um alto lucro, mas com uma média de vendas baixa. A única vendedora dessa empresa á Isabela Rodrigues e apenas na cidade de Duque de Caxias. Isso sugere que pode se tratar de uma empresa de revenda que compra bastante e aproveita esse período para renovar seu estoque em Duque de Caxias.
+* Fortaleza é a terceira cidade com mais lucros(R$ 918.342,29, mas só tem vendas no atacado).
 * Entre os dias 20 e 25 de dezembro de 2022, registramos as maiores médias de vendas dos últimos 7 dias, considerando tanto o atacado quanto o e-commerce.
