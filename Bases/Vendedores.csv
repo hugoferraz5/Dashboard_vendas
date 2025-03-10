@@ -1,0 +1,125 @@
+COD;VENDEDOR;Canal de venda;Data Inicial da Comissão;Data Final da Comissão;Percentual da Comissão
+1;Ana Santos;Atacado;01/01/2022;02/12/2022;3.58
+1;Ana Santos;Atacado;03/12/2022;;4.98
+2;José Silva;Atacado;01/01/2022;15/03/2022;3.5
+2;José Silva;Atacado;16/03/2022;;6.56
+3;Mariana Oliveira;Atacado;01/01/2022;11/09/2022;5.65
+3;Mariana Oliveira;Atacado;12/09/2022;;6.57
+4;Fernando Leony;Atacado;01/01/2022;24/03/2022;5.52
+4;Fernando Leony;Atacado;25/03/2022;;4.43
+5;Roberto Pereira;Atacado;01/01/2022;28/02/2022;5.38
+5;Roberto Pereira;Atacado;01/03/2022;;5.54
+6;Luciana Souza;Atacado;01/01/2022;01/03/2022;4.9
+6;Luciana Souza;Atacado;02/03/2022;;3.64
+7;Ricardo Alves;Atacado;01/01/2022;04/03/2022;5.76
+7;Ricardo Alves;Atacado;05/03/2022;;6.44
+8;Paulo Fernando;Atacado;01/01/2022;15/08/2022;6.55
+8;Paulo Fernando;Atacado;16/08/2022;;3.26
+9;Luciano Barbosa;Atacado;01/01/2022;02/10/2022;3.61
+9;Luciano Barbosa;Atacado;03/10/2022;;5.57
+10;Lojas Americanas;E-commerce;01/01/2022;28/03/2022;5.8
+10;Lojas Americanas;E-commerce;29/03/2022;;18.5
+11;Olist;E-commerce;01/01/2022;04/11/2022;5.03
+11;Olist;E-commerce;05/11/2022;;13.2
+12;Loja Própria;E-commerce;01/01/2022;10/05/2022;0
+12;Loja Própria;E-commerce;11/05/2022;;0
+13;Amazon;E-commerce;01/01/2022;19/12/2022;5.54
+13;Amazon;E-commerce;20/12/2022;;10.1
+14;Submarino;E-commerce;01/01/2022;30/08/2022;6.78
+14;Submarino;E-commerce;31/08/2022;;8.1
+15;Mercado Livre;E-commerce;01/01/2022;11/06/2022;6.8
+15;Mercado Livre;E-commerce;12/06/2022;;13.2
+16;Magalu;E-commerce;01/01/2022;20/03/2022;6.13
+16;Magalu;E-commerce;21/03/2022;;3.59
+17;Eduarda Lima;Atacado;01/01/2022;30/07/2022;6.34
+17;Eduarda Lima;Atacado;31/07/2022;;6.87
+18;Joaquim Castro;Atacado;01/01/2022;11/06/2022;6.47
+18;Joaquim Castro;Atacado;12/06/2022;;3.75
+19;Fabiana Santos;Atacado;01/01/2022;14/02/2022;6.13
+19;Fabiana Santos;Atacado;15/02/2022;;5.14
+20;Fernanda Silva;Atacado;01/01/2022;12/08/2022;3.43
+20;Fernanda Silva;Atacado;13/08/2022;;4.25
+21;Gabriela Almeida;Atacado;01/01/2022;18/03/2022;6.12
+21;Gabriela Almeida;Atacado;19/03/2022;;3.13
+22;Gustavo Rocha;Atacado;01/01/2022;23/09/2022;5.62
+22;Gustavo Rocha;Atacado;24/09/2022;;6.42
+23;Pedro Fernandes;Atacado;01/01/2022;13/11/2022;4.39
+23;Pedro Fernandes;Atacado;14/11/2022;;3.35
+24;Lucas Carvalho;Atacado;01/01/2022;19/10/2022;4.77
+24;Lucas Carvalho;Atacado;20/10/2022;;6.08
+25;Maria Oliveira;Atacado;01/01/2022;17/12/2022;5.9
+25;Maria Oliveira;Atacado;18/12/2022;;5.4
+26;Rafael Mendes;Atacado;01/01/2022;10/05/2022;6.51
+26;Rafael Mendes;Atacado;11/05/2022;;5.26
+27;Cristina Rodrigues;Atacado;01/01/2022;26/11/2022;3.48
+27;Cristina Rodrigues;Atacado;27/11/2022;;3.05
+28;Luiz Henrique Silva;Atacado;01/01/2022;08/03/2022;4.21
+28;Luiz Henrique Silva;Atacado;09/03/2022;;6.98
+29;Marcelo Cardoso;Atacado;01/01/2022;03/12/2022;6.2
+29;Marcelo Cardoso;Atacado;04/12/2022;;6.03
+30;Vanessa Pereira;Atacado;01/01/2022;24/06/2022;3.7
+30;Vanessa Pereira;Atacado;25/06/2022;;5.38
+31;Mauro Barbosa;Atacado;01/01/2022;01/05/2022;5.99
+31;Mauro Barbosa;Atacado;02/05/2022;;6.29
+32;Luana Costa;Atacado;01/01/2022;11/03/2022;4.32
+32;Luana Costa;Atacado;12/03/2022;;5.07
+33;Patricia Sousa;Atacado;01/01/2022;11/11/2022;5.94
+33;Patricia Sousa;Atacado;12/11/2022;;6.96
+34;Eduardo Rodrigues;Atacado;01/01/2022;11/11/2022;4.29
+34;Eduardo Rodrigues;Atacado;12/11/2022;;6.48
+35;Beatriz Santos;Atacado;01/01/2022;24/08/2022;3.95
+35;Beatriz Santos;Atacado;25/08/2022;;6.2
+36;Felipe Gonçalves;Atacado;01/01/2022;06/09/2022;5.21
+36;Felipe Gonçalves;Atacado;07/09/2022;;5.61
+37;Rodrigo Castro;Atacado;01/01/2022;16/12/2022;4.58
+37;Rodrigo Castro;Atacado;17/12/2022;;3.07
+38;Marcia Alves;Atacado;01/01/2022;28/08/2022;5.21
+38;Marcia Alves;Atacado;29/08/2022;;5.67
+39;Daniel Oliveira;Atacado;01/01/2022;18/08/2022;5.11
+39;Daniel Oliveira;Atacado;19/08/2022;;3.54
+40;Isabela Lima;Atacado;01/01/2022;29/06/2022;4.28
+40;Isabela Lima;Atacado;30/06/2022;;4.27
+41;Ricardo Santos;Atacado;01/01/2022;26/11/2022;6.27
+41;Ricardo Santos;Atacado;27/11/2022;;5.49
+42;Fernando Silva;Atacado;01/01/2022;18/09/2022;6.96
+42;Fernando Silva;Atacado;19/09/2022;;4.85
+43;Carolina Rodrigues;Atacado;01/01/2022;08/04/2022;5.6
+43;Carolina Rodrigues;Atacado;09/04/2022;;3.4
+44;João Oliveira;Atacado;01/01/2022;27/04/2022;4.59
+44;João Oliveira;Atacado;28/04/2022;;3.51
+45;Amanda Ferreira;Atacado;01/01/2022;01/10/2022;3.34
+45;Amanda Ferreira;Atacado;02/10/2022;;3.71
+46;Isabela Rodrigues;Atacado;01/01/2022;12/04/2022;5.36
+46;Isabela Rodrigues;Atacado;13/04/2022;;5.22
+47;Rodrigo Almeida;Atacado;01/01/2022;10/05/2022;4.02
+47;Rodrigo Almeida;Atacado;11/05/2022;;6.03
+48;Claudia Pereira;Atacado;01/01/2022;29/07/2022;3.76
+48;Claudia Pereira;Atacado;30/07/2022;;6.33
+49;Lucas Oliveira;Atacado;01/01/2022;09/11/2022;4.05
+49;Lucas Oliveira;Atacado;10/11/2022;;6.14
+50;Karina Souza;Atacado;01/01/2022;05/02/2022;3.46
+50;Karina Souza;Atacado;06/02/2022;;4.9
+51;Miriam Lima;Atacado;01/01/2022;16/06/2022;3.83
+51;Miriam Lima;Atacado;17/06/2022;;4.14
+52;João Santos;Atacado;01/01/2022;01/01/2023;4.86
+52;João Santos;Atacado;02/01/2023;;5.39
+53;Marcos Pereira;Atacado;01/01/2022;14/03/2022;4.16
+53;Marcos Pereira;Atacado;15/03/2022;;4.3
+54;Luana Silva;Atacado;01/01/2022;29/06/2022;6.78
+54;Luana Silva;Atacado;30/06/2022;;4.73
+55;Danielle Alves;Atacado;01/01/2022;15/11/2022;5.32
+55;Danielle Alves;Atacado;16/11/2022;;4.36
+56;Carla Rodrigues;Atacado;01/01/2022;11/02/2022;5.75
+56;Carla Rodrigues;Atacado;12/02/2022;;4.89
+57;Mariana Almeida;Atacado;01/01/2022;13/09/2022;4.11
+57;Mariana Almeida;Atacado;14/09/2022;;4.71
+58;André Lima;Atacado;01/01/2022;15/02/2022;4.05
+58;André Lima;Atacado;16/02/2022;;3.68
+59;Paulo Rocha;Atacado;01/01/2022;06/04/2022;5.01
+59;Paulo Rocha;Atacado;07/04/2022;;4.96
+60;Marcio Santos;Atacado;01/01/2022;03/12/2022;5.8
+60;Marcio Santos;Atacado;04/12/2022;;4.62
+61;Shopee;E-commerce;01/01/2022;26/08/2022;5.27
+61;Shopee;E-commerce;27/08/2022;;6.98
+62;Aliexpress;E-commerce;01/01/2022;01/12/2022;3.89
+62;Aliexpress;E-commerce;02/12/2022;;5.5
